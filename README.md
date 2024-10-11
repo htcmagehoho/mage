@@ -1,0 +1,1 @@
+Volume 30-step expansion, video call activation, carrier model multi-profile activation, video image enhancement restoration, wifi6e, wifi7 region (Korea) activation, in-band ringtone activation (prevents Bluetooth headset from ringing its own device and replaces it with a personalized phone ringtone)
